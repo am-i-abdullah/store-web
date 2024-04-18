@@ -10,7 +10,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "2c26072f1ee65f818849da03296a4d92
 "assets/assets/logo.png": "27d66320f2396600592a7ad9a0aedfc8",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "7273ab1855536a656b58ca745bcf227f",
-"assets/NOTICES": "67815f35615cd25e42854bb1dc9cb9f8",
+"assets/NOTICES": "448b18c59d144b6d0a49d3c8a70272a4",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
 "assets/packages/flutter_inappwebview/assets/t_rex_runner/t-rex.css": "5a8d0222407e388155d7d1395a75d5b9",
 "assets/packages/flutter_inappwebview/assets/t_rex_runner/t-rex.html": "16911fcc170c8af1c5457940bd0bf055",
@@ -33,11 +33,20 @@ const RESOURCES = {"assets/AssetManifest.bin": "2c26072f1ee65f818849da03296a4d92
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "bb427e761558c609f98d0440da9efbeb",
-"/": "bb427e761558c609f98d0440da9efbeb",
-"main.dart.js": "eedcef65a3f4a8871d6267b7a498017b",
+"index.html": "6660acf00c7ec03a9584de581660c6b8",
+"/": "6660acf00c7ec03a9584de581660c6b8",
+"main.dart.js": "1606a51d560c0d567937a33ad8d6d44d",
 "manifest.json": "71d4be0e176093e7d6f155702b1a7481",
-"version.json": "5662d4fbc6f4ecaba3165a691a9ab97a"};
+"splash/img/dark-1x.png": "1a122027f2c8ba9f29245df92f828ab8",
+"splash/img/dark-2x.png": "1833563e9c6fe2e9b553a84bcdb304d3",
+"splash/img/dark-3x.png": "652cc215f7e58261403945f361f9e188",
+"splash/img/dark-4x.png": "793948221bbeec5b52e15f7d59b6b86a",
+"splash/img/light-1x.png": "1a122027f2c8ba9f29245df92f828ab8",
+"splash/img/light-2x.png": "1833563e9c6fe2e9b553a84bcdb304d3",
+"splash/img/light-3x.png": "652cc215f7e58261403945f361f9e188",
+"splash/img/light-4x.png": "793948221bbeec5b52e15f7d59b6b86a",
+"version.json": "5662d4fbc6f4ecaba3165a691a9ab97a",
+"web.zip": "4634907999129c94e70b362cbd6e7177"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
